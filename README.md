@@ -12,6 +12,8 @@
   <br />
 </div>
 
+![Demo scene](./img/scene.png)
+
 ## Requirements
 [VRChat SDK3 - Worlds Unity package](https://vrchat.com/download/sdk3-worlds)
 
