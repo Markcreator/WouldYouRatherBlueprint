@@ -12,16 +12,18 @@
   <br />
 </div>
 
-### Requirements
+## Requirements
 [VRChat SDK3 - Worlds Unity package](https://vrchat.com/download/sdk3-worlds)
+
 [UdonSharp Unity package](https://github.com/MerlinVR/UdonSharp/releases)
+
 [CyanEmu](https://github.com/CyanLaser/CyanEmu/releases/) (Optional, but useful for testing)
 
 Be sure to import all the required packages into your Unity project before importing the blueprint package.
 
 [Download](https://github.com/Markcreator/WouldYouRatherBlueprint/releases/download/v1.0/WouldYouRather.Blueprint.World.v1.0.unitypackage)
 
-### Configuration
+## Configuration
 The example scene is located at: 'Assets/RatherGame/RatherGame.unity'.
 
 I recommend duplicating the example scene and working inside that.
